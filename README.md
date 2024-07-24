@@ -26,54 +26,39 @@ U.S. government interest rates from 1990 to 2024 [Interest Rates](https://fred.s
 
 - Each Insurance Company Dividend Rate v.s. Interest Rate
   <br>
-      <img src="overall-vs.jpg" width="500">
+      <img src="Images/overall-vs.jpg" width="500">
   <br>
 
 - YoY Growth overall
   <br>
-      <img src="yoy-growth.jpg" width="500">
+      <img src="Images/yoy-growth.jpg" width="500">
   <br>
 
 - YoY Growth in each Insurance Company
   <br>
-      <img src="yoy-each.jpg" width="500">
-  <br>
-
-- Guardian Life Dividend Rate v.s. Interest Rate
-  <br>
-      <img src="guardian-life.jpg" width="500">
-  <br>
-
-- Mass Mutual Dividend Rate v.s. Interest Rate
-  <br>
-      <img src="guardian-life.jpg" width="500">
-  <br>
-
-- New York Life Dividend Rate v.s. Interest Rate
-  <br>
-      <img src="guardian-life.jpg" width="500">
+      <img src="Images/yoy-each.jpg" width="500">
   <br>
 
 # 📈 Exploratory Data Analysis  
 
 - Guardian Life Dividend Rate v.s. Interest Rate Analysis
   <br>
-      <img src="guardian-life.jpg" width="500">
+      <img src="Images/guardian-life.jpg" width="500">
   <br>
 
 - Mass Mutual Dividend Rate v.s. Interest Rate Analysis
   <br>
-      <img src="massmutual.jpg" width="500">
+      <img src="Images/massmutual.jpg" width="500">
   <br>
 
 - New York Life Dividend Rate v.s. Interest Rate Analysis
   <br>
-      <img src="newyork-life.jpg" width="500">
+      <img src="Images/newyork-life.jpg" width="500">
   <br>
 
 - Interest Rate Analysis
   <br>
-      <img src="interest.jpg" width="500">
+      <img src="Images/interest.jpg" width="500">
   <br>
 
 
