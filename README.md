@@ -5,14 +5,15 @@ My goal is to identify trends, correlations, and insights that assist in evaluat
 
 # 🔍 Data Requirements
 
-Dividend rates from New York Life, Guardian Life, and MassMutual from 1990 to 2024 [dataset](https://topwholelife.com/whole-life-insurance-dividend-rate-history/).
-U.S. government interest rates from 1990 to 2024 [dataset](https://fred.stlouisfed.org/series/FEDFUNDS#0).
+Dividend rates from New York Life, Guardian Life, and MassMutual from 1990 to 2024 [Dataset](https://topwholelife.com/whole-life-insurance-dividend-rate-history/).
+
+U.S. government interest rates from 1990 to 2024 [Interest Rates](https://fred.stlouisfed.org/series/FEDFUNDS#0).
 
 # 📊 Data Visualization
 
 - Time Series Line Chart:
     - Display dividend rates of New York Life, Guardian Life, MassMutual, and U.S. government interest rates on the same chart.
-    - Use different colors for each company and government rates.
+    - Use different colors for each company and government rate.
     - X-axis: Years (1990-2024), Y-axis: Rate percentage.
   <br>
       <img src="Images/dividend-rate-vs-interest-rate.png" width="500">
